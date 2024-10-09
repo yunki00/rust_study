@@ -1,0 +1,1 @@
+C:\Users\dbsrl\rust_study\KZG\target\debug\KZG.exe: C:\Users\dbsrl\rust_study\KZG\src\main.rs C:\Users\dbsrl\rust_study\KZG\src\prover.rs C:\Users\dbsrl\rust_study\KZG\src\setup.rs C:\Users\dbsrl\rust_study\KZG\src\verifer.rs

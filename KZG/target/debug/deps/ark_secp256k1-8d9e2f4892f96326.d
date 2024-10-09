@@ -1,0 +1,9 @@
+C:\Users\dbsrl\rust_study\KZG\target\debug\deps\libark_secp256k1-8d9e2f4892f96326.rmeta: C:\Users\dbsrl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-secp256k1-0.4.0\src\lib.rs C:\Users\dbsrl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-secp256k1-0.4.0\src\curves\mod.rs C:\Users\dbsrl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-secp256k1-0.4.0\src\fields\mod.rs C:\Users\dbsrl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-secp256k1-0.4.0\src\fields\fq.rs C:\Users\dbsrl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-secp256k1-0.4.0\src\fields\fr.rs
+
+C:\Users\dbsrl\rust_study\KZG\target\debug\deps\ark_secp256k1-8d9e2f4892f96326.d: C:\Users\dbsrl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-secp256k1-0.4.0\src\lib.rs C:\Users\dbsrl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-secp256k1-0.4.0\src\curves\mod.rs C:\Users\dbsrl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-secp256k1-0.4.0\src\fields\mod.rs C:\Users\dbsrl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-secp256k1-0.4.0\src\fields\fq.rs C:\Users\dbsrl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-secp256k1-0.4.0\src\fields\fr.rs
+
+C:\Users\dbsrl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-secp256k1-0.4.0\src\lib.rs:
+C:\Users\dbsrl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-secp256k1-0.4.0\src\curves\mod.rs:
+C:\Users\dbsrl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-secp256k1-0.4.0\src\fields\mod.rs:
+C:\Users\dbsrl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-secp256k1-0.4.0\src\fields\fq.rs:
+C:\Users\dbsrl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-secp256k1-0.4.0\src\fields\fr.rs:

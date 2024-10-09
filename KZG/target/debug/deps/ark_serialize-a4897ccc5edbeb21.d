@@ -1,0 +1,9 @@
+C:\Users\dbsrl\rust_study\KZG\target\debug\deps\libark_serialize-a4897ccc5edbeb21.rmeta: C:\Users\dbsrl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-serialize-0.4.2\src\lib.rs C:\Users\dbsrl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-serialize-0.4.2\src\error.rs C:\Users\dbsrl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-serialize-0.4.2\src\flags.rs C:\Users\dbsrl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-serialize-0.4.2\src\impls.rs C:\Users\dbsrl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-serialize-0.4.2\src\../README.md
+
+C:\Users\dbsrl\rust_study\KZG\target\debug\deps\ark_serialize-a4897ccc5edbeb21.d: C:\Users\dbsrl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-serialize-0.4.2\src\lib.rs C:\Users\dbsrl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-serialize-0.4.2\src\error.rs C:\Users\dbsrl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-serialize-0.4.2\src\flags.rs C:\Users\dbsrl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-serialize-0.4.2\src\impls.rs C:\Users\dbsrl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-serialize-0.4.2\src\../README.md
+
+C:\Users\dbsrl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-serialize-0.4.2\src\lib.rs:
+C:\Users\dbsrl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-serialize-0.4.2\src\error.rs:
+C:\Users\dbsrl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-serialize-0.4.2\src\flags.rs:
+C:\Users\dbsrl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-serialize-0.4.2\src\impls.rs:
+C:\Users\dbsrl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-serialize-0.4.2\src\../README.md:
